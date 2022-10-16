@@ -1,4 +1,5 @@
-﻿1,AR-5381,Adjustable Race,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current,Current
+﻿ProductKey,Product Item Code,Product Name,Sub Category,Product Category,Product Color,Product Size,Product Line,Product Model Name,Product Description,IfNull,Product Status
+1,AR-5381,Adjustable Race,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current,Current
 2,BA-8327,Bearing Ball,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current,Current
 3,BE-2349,BB Ball Bearing,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current,Current
 4,BE-2908,Headset Ball Bearings,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current,Current
